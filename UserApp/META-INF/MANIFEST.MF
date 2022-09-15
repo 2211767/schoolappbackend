@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: UserApp
+Bundle-SymbolicName: UserApp
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: UserApp
+Export-Package: com.example.demo,
+ com.example.demo.controller,
+ com.example.demo.exceptions,
+ com.example.demo.filter,
+ com.example.demo.model,
+ com.example.demo.repository,
+ com.example.demo.service,
+ com.example.demo.serviceImpl
